@@ -10,8 +10,11 @@
 Открывать проект можно в любой среде программирования, поддерживающией язык программирования python
 
 #Скриншоты выполнения программы
+
 ![image](https://user-images.githubusercontent.com/113355417/208613472-15ca7187-bdc7-4030-827b-44ec548287c5.png)
+
 ![image](https://user-images.githubusercontent.com/113355417/208613611-5059c2be-5c6d-4625-9c05-aef369cabab4.png)
+
 ![image](https://user-images.githubusercontent.com/113355417/208614485-b7cc2d1c-d240-4785-a6e8-687d2a90a706.png)
 
 
